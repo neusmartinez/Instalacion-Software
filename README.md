@@ -1,7 +1,6 @@
 # INSTALACIÓN DE SOFTWARE EN UBUNTU USANDO SYNAPTIC Y APT
 
 ## Introducción
-
 1. Investiga brevemente qué es un gestor de paquetes y por qué es importante en Linux.
 
 Un gestor de paquetes es una herramienta que administra la instalación, actualización y eliminación de software y bibliotecas en sistemas operativos basados en Linux. Es importante porque simplifica la administración del software, resuelve las dependencias y mantiene el sistema actualizado.
