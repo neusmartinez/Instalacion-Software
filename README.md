@@ -14,19 +14,18 @@
 ## Instalación de Synaptic
 
 1. Si Synaptic no está instalado en nuestra computadora, lo instalamos utilizando la línea de comandos con apt. Para ello, abrimos la terminal y ejecutamos los siguientes comandos: sudo apt update.  sudo apt install synaptic.
-
+![InstalaciónSoftware1](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%201.png)
 
 2. Nos aseguramos de tener Synaptic instalado correctamente antes de continuar.
+![InstalaciónSoftware2](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%202.png)
 
 
 ## Instalación de software usando Synaptic
 
 1. Abrimos Synaptic y busca el software que queramos instalar en la barra de búsqueda.
-![InstalaciónSoftware1](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%201.png)
 
 
 2. Seleccionamos el software y lo  marcamos para su instalación.
-![InstalaciónSoftware2](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%202.png)
 
 
 3. Aplicamos los cambios para comenzar la instalación.
