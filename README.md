@@ -17,7 +17,7 @@
 
 
 2. Seleccionamos el software y lo  marcamos para su instalación.
-![InstalaciónSoftware2](https://github.com/neusmartinez/Instalacion-Software2/blob/main/INSTALACIO%CC%81N%20SOFTWARE%201.png)
+![InstalaciónSoftware2](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%202.png)
 
 
 3. Aplicamos los cambios para comenzar la instalación.
