@@ -13,9 +13,11 @@
 ## Instalación de software usando Synaptic
 
 1. Abrimos Synaptic y busca el software que queramos instalar en la barra de búsqueda.
+![InstalaciónSoftware1](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX6.png)
 
 
 2. Seleccionamos el software y lo  marcamos para su instalación.
+![InstalaciónSoftware2](https://github.com/neusmartinez/InstalacionUbuntu/blob/main/VIRTUALBOX6.png)
 
 
 3. Aplicamos los cambios para comenzar la instalación.
