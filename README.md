@@ -2,6 +2,16 @@
 
 ## Introducción
 
+1. Investiga brevemente qué es un gestor de paquetes y por qué es importante en Linux.
+
+Un gestor de paquetes es una herramienta que administra la instalación, actualización y eliminación de software y bibliotecas en sistemas operativos basados en Linux. Es importante porque simplifica la administración del software, resuelve las dependencias y mantiene el sistema actualizado.
+
+
+2.Familiarízate con Synaptic y apt como dos métodos comunes para instalar software en Ubuntu.
+
+Synaptic y apt son dos métodos para instalar software en Ubuntu. Synaptic es una interfaz gráfica de usuario para apt, que permite buscar, instalar y actualizar software fácilmente. Mientras que apt es un comando de línea de comandos para administrar paquetes de software, permitiendo buscar, instalar, actualizar y eliminar paquetes de manera eficiente. Ambos son muy utilizados y ofrecen control completo sobre el software instalado en el sistema.
+
+
 ## Instalación de Synaptic
 
 1. Si Synaptic no está instalado en nuestra computadora, lo instalamos utilizando la línea de comandos con apt. Para ello, abrimos la terminal y ejecutamos los siguientes comandos: sudo apt update.  sudo apt install synaptic.
