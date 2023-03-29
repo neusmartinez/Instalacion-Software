@@ -14,10 +14,10 @@
 ## Instalación de Synaptic
 
 1. Si Synaptic no está instalado en nuestra computadora, lo instalamos utilizando la línea de comandos con apt. Para ello, abrimos la terminal y ejecutamos los siguientes comandos: sudo apt update.  sudo apt install synaptic.
-![InstalaciónSoftware1](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIÓN SOFTWARE 1.png)
+![InstalaciónSoftware1](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%201.png)
 
 2. Nos aseguramos de tener Synaptic instalado correctamente antes de continuar.
-![InstalaciónSoftware2](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIÓN SOFTWARE 2.png)
+![InstalaciónSoftware2](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%202.png)
 
 
 ## Instalación de software usando Synaptic
@@ -51,7 +51,9 @@
 ## Instalación y desinstalación de software usando la línea de comandos con apt
 
 * Para instalar: sudo apt install gimp.
-![InstalaciónSoftware3](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIÓN SOFTWARE 3.png)
-![InstalaciónSoftware4](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIÓN SOFTWARE 4.png)
+![InstalaciónSoftware3](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%203.png)
+![InstalaciónSoftware4](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%204.png)
+![InstalaciónSoftware5](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%205.png)
 
 * Para desinstalar: sudo apt remove gimp.
+![InstalaciónSoftware6](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%206.png)
