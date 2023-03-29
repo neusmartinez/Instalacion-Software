@@ -60,4 +60,5 @@
 
 
 * Para desinstalar: sudo apt remove gimp.
+
 ![InstalaciónSoftware6](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%206.png)
