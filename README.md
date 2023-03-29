@@ -50,7 +50,7 @@
 
 ## Instalación y desinstalación de software usando la línea de comandos con apt
 
-* Para instalar: sudo apt install gimp.
+* Para instalar: sudo apt-get install gimp.
 
 ![InstalaciónSoftware3](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%203.png)
 
