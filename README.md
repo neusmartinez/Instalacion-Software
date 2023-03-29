@@ -52,8 +52,11 @@
 
 * Para instalar: sudo apt install gimp.
 ![InstalaciónSoftware3](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%203.png)
+
 ![InstalaciónSoftware4](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%204.png)
+
 ![InstalaciónSoftware5](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%205.png)
+
 
 * Para desinstalar: sudo apt remove gimp.
 ![InstalaciónSoftware6](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%206.png)
