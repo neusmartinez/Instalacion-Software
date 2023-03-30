@@ -41,20 +41,20 @@
 ## Desinstalación del software usando Synaptic
 
 1. Abrimos Synaptic y buscamos el software en la barra de búsqueda.
-![InstalaciónSoftware7](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%207.png)
+![InstalaciónSoftware7](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACI%C3%93N%20SOFTWARE%207.png)
 
 
 2. Seleccionamos el software y lo márcalo para su desinstalación.
-![InstalaciónSoftware12](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%2012.png)
+![InstalaciónSoftware12](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACI%C3%93N%20SOFTWARE%2012.png)
 
 
 3. Aplicamos los cambios para comenzar la desinstalación.
-![InstalaciónSoftware13](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%2013.png)
+![InstalaciónSoftware13](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACI%C3%93N%20SOFTWARE%2013.png)
 
 
 4. Esperamos a que finalice la desinstalación y cerramos Synaptic.
-![InstalaciónSoftware14](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%2014.png)
-![InstalaciónSoftware15](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%2015.png)
+![InstalaciónSoftware14](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACI%C3%93N%20SOFTWARE%2014.png)
+![InstalaciónSoftware15](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACI%C3%93N%20SOFTWARE%2015.png)
 
 
 ## Instalación y desinstalación de software usando la línea de comandos con apt
