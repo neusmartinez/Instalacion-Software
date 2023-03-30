@@ -26,7 +26,7 @@
 ![InstalaciónSoftware7](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACI%C3%93N%20SOFTWARE%207.png)
 
 
-2. Seleccionamos el software y lo  marcamos para su instalación.
+2. Seleccionamos el software y lo marcamos para su instalación.
 ![InstalaciónSoftware8](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACI%C3%93N%20SOFTWARE%208.png)
 
 
@@ -44,7 +44,7 @@
 ![InstalaciónSoftware7](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACI%C3%93N%20SOFTWARE%207.png)
 
 
-2. Seleccionamos el software y lo márcalo para su desinstalación.
+2. Seleccionamos el software y lo marcamos para su desinstalación.
 ![InstalaciónSoftware12](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACI%C3%93N%20SOFTWARE%2012.png)
 
 
