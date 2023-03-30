@@ -31,7 +31,7 @@
 
 
 3. Aplicamos los cambios para comenzar la instalación.
-![InstalaciónSoftware9](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%209.png)
+![InstalaciónSoftware9](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACI%C3%93N%20SOFTWARE%209.png)
 
 
 4. Esperamos a que finalice la instalación y cerramos Synaptic.
