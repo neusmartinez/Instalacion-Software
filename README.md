@@ -54,6 +54,7 @@
 
 4. Esperamos a que finalice la desinstalación y cerramos Synaptic.
 ![InstalaciónSoftware14](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACI%C3%93N%20SOFTWARE%2014.png)
+
 ![InstalaciónSoftware15](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACI%C3%93N%20SOFTWARE%2015.png)
 
 
@@ -71,3 +72,5 @@
 * Para desinstalar: sudo apt remove gimp.
 
 ![InstalaciónSoftware6](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACIO%CC%81N%20SOFTWARE%206.png)
+
+![InstalaciónSoftware15](https://github.com/neusmartinez/Instalacion-Software/blob/main/INSTALACI%C3%93N%20SOFTWARE%2015.png)
